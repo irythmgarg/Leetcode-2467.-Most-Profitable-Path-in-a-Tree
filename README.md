@@ -58,7 +58,7 @@ Output:
 
 ---
 
-👨‍💻 Author
+👨‍💻 Author -
 Ridham Garg
 
 Thapar Institute of Engineering and Technology (Patiala)
